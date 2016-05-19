@@ -1,1 +1,3 @@
-# project-nlp
+## project-nlp
+
+Assessing how much time the House of Commons wastes during debates by doing NLP on debate transcripts
